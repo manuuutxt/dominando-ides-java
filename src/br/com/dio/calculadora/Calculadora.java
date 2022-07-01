@@ -9,9 +9,9 @@ Scanner scan = new Scanner(System.in);
 
 int a, b;
 
-System.out.println("Digite o primeiro valor: ");
+System.out.println("Digite seu primeiro valor: ");
 a = scan.nextInt();
-System.out.println("Digite o segundo valor: ");
+System.out.println("Digite seu segundo valor: ");
 b = scan.nextInt();
 
 int soma = soma(a,b);
